@@ -10,7 +10,7 @@ I'm a passionate Front-End Developer with a keen eye for design and a strong fou
 - 💼 Currently working at Blanco Silva computer consulting as a Engineer Front-End Developer
 - 🌱 Learning more about advanced JavaScript frameworks and back-end development
 - 🎓 Last semester student of Engineering in Sciences and Systems at the Mariano Gálvez University. 
-- 💬 Ask me about HTML, CSS, JavaScript, Angular, and React
+- 💬 Ask me about HTML, CSS, JavaScript, Angular, React, Python
 - 📫 How to reach me: mariamerochoa08@gmail.com 
 - ⚡ Fun fact: I love hiking and photography
 
