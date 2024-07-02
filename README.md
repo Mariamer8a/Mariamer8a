@@ -34,10 +34,4 @@ Built an interactive dashboard application with real-time data visualization fea
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [Portfolio](https://your-portfolio-website.com)
-
-## GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-castillo-2b0802217)
